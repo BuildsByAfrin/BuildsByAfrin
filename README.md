@@ -1,4 +1,4 @@
-![logo] (
+![logo] ()
 <h1 align="center">Hi 👋, I'm Afrin Parveen</h1>
 <h3 align="center">A passionate Web-developer from India</h3>
 
