@@ -1,4 +1,4 @@
-![logo] (https://github.com/BuildsByAfrin/BuildsByAfrin/blob/main/Image.png.jpg)
+![logo] (https://github.com/BuildsByAfrin/BuildsByAfrin/blob/main/Image.png.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Afrin Parveen</h1>
 <h3 align="center">A passionate Web-developer from India</h3>
 
